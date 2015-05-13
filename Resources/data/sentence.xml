@@ -1,0 +1,264 @@
+<!-- 窗口大小-->
+<sentence>
+    
+    <s chinese = "在三鹿有毒奶粉事件曝光后，家长们为该给孩子吃什么而忧虑。" tip = "expose; be concerned about" english = " After the serious poisoning of Sanlu milk powder was exposed to the public, parents become even more concerned about what their children can eat."></s>
+    <s chinese = "好朋友就是能和你分享快乐和忧伤的人。" tip = "share…with" english = " A best friend is someone who can share happiness and sorrow with you."></s>
+    <s chinese = "我很感激你的建议，它帮助了我与同学们融洽相处。" tip = "be grateful, advice, get along with" english = " I’m grateful for your advice, which has helped me get along well with my classmates."></s>
+    <s chinese = "这是他第一次用电子邮件与笔友交流。" tip = "the first time, communicate with" english = " This is the first time that he has used an e-mail to communicate with his pen friend."></s>
+    <s chinese = "当我们在游泳池边玩的时候, 那个淘气的男孩故意把我推到了水里。" tip = "while… doing, on purpose" english = " While we were playing at the swimming pool, the naughty boy pushed me into the water on purpose."></s>
+    <s chinese = "爱好是不会让你感到厌倦的——你投入的时间越长，乐趣越多" tip = "the more… the more; devote to; get tired of" english = ".  A hobby is something that you never get tired of—the more time you devote to it, the more fun you will have."></s>
+    <s chinese = "计算机使人们即使身处世界的不同角落也能面对面地交流, 这彻底改变了我们的生活。" tip = "make …possible; face to face; even if；entirely" english = "  Computer makes it possible for people to talk face to face even if they are in different parts of the world, which has entirely changed our life."></s>
+    <s chinese = "每当考试遇到很多难题的时候，我首先告诉自己要平静下来。" tip = "a series of, calm down" english = "    Every time I met with a series of difficult problems in the exam, the first step I took was to ask myself to calm down."></s>
+    <s chinese = "根据新闻报道，是天气决定神舟七号发射的准确时间。" tip = "according to, it is ….that强调句 " english = " According to the news report, it is the weather that will determine the exact launch time of Shenzou Seven."></s>
+    <s chinese = "为了实现他的冠军梦， 他在过去十年里经历了许多的艰辛。" tip = "in order to, suffer" english = " In order to realize his dream of being a champion, he has suffered great hardship over the past ten years."></s>
+    <s chinese = "现在, 每年有超过100万的旅客来广州观光旅游. " tip = "at present, more than" english = " At present, more than one million visitors / tourists travel to Guangzhou every year."></s>
+    <s chinese = "他们的友谊是建立在多年相互开放沟通的基础上的. " tip = "base … on, communication" english = " Their relationship is based upon years of open communication with each other."></s>
+    <s chinese = "我们要充分利用我们现有的资源. " tip = "make use of, resources" english = " We must make good use of the resources we have now."></s>
+    <s chinese = "我们应该积极参加社区服务. 这样可以丰富我们的生活. " tip = "take part in, enrich" english = " We should take an active part in community service, which can enrich our life."></s>
+    <s chinese = "不管你相不相信, 我们已经逐渐地可以用英语流利地表达自己了。" tip = "believe it or not, gradually, express, fluently" english = "  Believe it or not, we have gradually become able to express ourselves fluently in English."></s>
+    <s chinese = "实际上学好英语有很多种方式, 例如多背诵, 多看书. " tip = "actually, a number of, such as" english = " Actually, there are a number of ways to learn English well, such as by recitation and reading."></s>
+    <s chinese = "即使这工作要花掉我六个星期的时间，我仍决心要完成这份工作。 " tip = "even if, determined " english = " Even if it takes me six weeks, I am determined to finish the job."></s>
+    <s chinese = "由于下大雨，到处都出现了交通阻塞。" tip = "because of" english = " Because of the heavy rain, there are traffic jams everywhere."></s>
+    <s chinese = "政府应该尽快想出更好的办法来解决高油价所带来的问题. " tip = "come up with, petrol" english = " The government should come up with a better solution to the problems caused by the high price of petrol."></s>
+    <s chinese = "全体同学都要准时参加明天举行的会议. " tip = "request" english = "  All students are requested to attend the meeting to be held tomorrow and to get there on time."></s>
+    <s chinese = "杰克给了我一个坚定的眼神，这眼神表明他不会改变主意，也不会屈服。" tip = "determined, change one’s mind, give in" english = " Jack gave me a determined look, which showed me that he would neither change his mind nor give in"></s>
+    <s chinese = "约翰，想办法把这房间整理好。" tip = "think of, get sth done" english = " John, think of ways to get this room tidied up."></s>
+    <s chinese = "他不停劝说我，如果我去旅游，让他相陪。" tip = "persuade, company" english = " He kept persuading me to take him for company if I went for a trip."></s>
+    <s chinese = "尽管她并不喜欢画，她却坚持要和我一起去看画展。" tip = "be fond of, insist" english = " Although she was not fond of paintings, she insisted that she go to the exhibition with me."></s>
+    <s chinese = "花了一周时间才把衣物和药品送达灾区。" tip = "transport运输" english = " It took one week to transport the food, clothes and medicine to the disaster-hit area."></s>
+    <s chinese = "我们以为保罗是一个可信赖的人，但实际上他只关心他自己。" tip = "reliable, care about" english = " We thought that Paul was a reliable man, but actually he only cares about himself."></s>
+    <s chinese = "首先想到沿着河流从源头到终点骑车旅游的是你的表姐。" tip = "强调句" english = " It was your cousin who first had the idea to cycle along the river from where it begins to where it ends."></s>
+    <s chinese = "由于他的车损坏了，他获得了1000元的保险费。" tip = "insurance" english = " Because his car was damaged, he received RMB1000 from the insurance company."></s>
+    <s chinese = "我妹妹很固执，她根本听不进别人的意见。" tip = "stubborn" english = " So stubborn is my sister that she won’t listen to any suggestion."></s>
+    <s chinese = "请耐心点。火车十分钟后到。" tip = "be doing 表将来" english = " Please be patient. The train is arriving in ten minutes."></s>
+    <s chinese = "好像他的事业就快要结束了。" tip = "It seems/ seemed that…, at an end" english = " It seems that his career is at an end."></s>
+    <s chinese = "据报道，我们市吸烟人数已达到100万。" tip = "It is reported that…, the number of, reach" english = " It is reported that the number of smokers in our city has reached one million."></s>
+    <s chinese = "我想知道这些幸存者是如何被营救的。" tip = "wonder, survivor, rescue" english = " I wondered how the survivors were rescued."></s>
+    <s chinese = "百分之六十的旅客宁愿住在窗朝南的房间。" tip = "用定语从句" english = " Sixty percent of the travelers prefer to live in the rooms whose windows face south."></s>
+    <s chinese = "他的工作丢了，但并非所有美好的希望都破灭了。" tip = "be gone, not all" english = " His job was gone but not all the hope was lost."></s>
+    <s chinese = "学校将组织学生在操场周围挖一条水沟并植树." tip = "organize, dig out " english = " The school will organize the students to dig out a channel and plant trees around the playground."></s>
+    <s chinese = "消防员没有多考虑个人的安危,像平常一样将困在大火中的人员援救出来." tip = "think little of, rescue, be trapped in" english = "  The firefighters thought little of their personal safety and as usual rescued the people who were trapped in the fire."></s>
+    <s chinese = "中国东临太平洋, 有着13亿的人口." tip = "on the east, with " english = " China, with a population of 1.3 billion, faces the Pacific on the east."></s>
+    <s chinese = "营救人员累得不想再动, 并在废墟中睡着了." tip = "too…to…, fall asleep , in the ruins" english = " The rescuers were too tired to move and fell asleep in the ruins."></s>
+    <s chinese = "他顿时泪水夺眶而出，冲出门外寻求帮助。" tip = "burst, rush out " english = " He burst into tears, rushing out of the door to seek help."></s>
+    <s chinese = "一些人破门设法从失火的房子里逃了出来。" tip = "escape from; by doing sth" english = " Some people managed to escape from the burning building by breaking down the doors."></s>
+    <s chinese = "由于我受过比较好的教育，我得到了一份办公室的工作。" tip = "be better educated" english = " Since I was better educated, I got a job working in an office."></s>
+    <s chinese = "每日起床，他都喝一杯水，他认为这对他的身体有好处。" tip = "After doing…" english = " After getting up, he always drinks a glass of water, which he believes is good for his health."></s>
+    <s chinese = "我在小学的时候就认识他——事实上我们那时在同一个年级。" tip = "as a matter of fact" english = " I knew him when we were in primary school——as a matter of fact, we were in the same grade."></s>
+    <s chinese = "德兰修女 把自己毕生的精力都倾注在照顾穷苦人之上。" tip = "devote …to…" english = " Mother Teresa has devoted all her life to caring for the poor."></s>
+    <s chinese = "那个门前有两棵树的屋子是他过去曾经居住过的地方。" tip = "介词+which" english = " The house, in front of which there are two trees, was the place which he used to live in."></s>
+    <s chinese = "曼德拉掌权成为总统以后，他的政府尽力为黑人改变不平等的状况。" tip = "come to power; president; unfair" english = " After Mandela came to power and became president, his government did their best to change the unfair situation for black people."></s>
+    <s chinese = "他恳求我让他加入我们刚建立的俱乐部。" tip = "beg; set up" english = " He is begging me to let him join the club we have just set up."></s>
+    <s chinese = "这对夫妇由于失业，不得不向亲戚求助。" tip = "out of work; turn to; relative" english = " As this couple were out of work, they had to turn to their relatives for help."></s>
+    <s chinese = "约翰要给捡到他钱包的出租司机一百元作为酬劳。" tip = "reward; wallet; who" english = " John wanted to give 100 yuan as a reward to the taxi driver who had found his wallet."></s>
+    <s chinese = "在日本，人们在进屋之前须脱鞋子。" tip = "remove" english = " In Japan, people should remove their shoes before they come inside."></s>
+    <s chinese = "这个问题值得讨论。" tip = " worth" english = " The problem is worth discussing."></s>
+    <s chinese = "除非我们净化我们的环境，否则人类可能将无法生存。" tip = "clean up, survive" english = " Unless we clean up our environment, human beings may not survive."></s>
+    <s chinese = "这时目前为止我所看过的最好的电影中的一部。" english = "This is one of the best films that I have ever seen."></s>
+    <s chinese = "他是否能通过考试仍有待证实。" tip = " remain " english = " It remains to be seen whether he will pass the exam or not."></s>
+    <s chinese = "我宁可在家里清洁家具也不出去购物。" tip = " rather than " english = " I prefer to stay at home to clean the furniture rather than go out shopping."></s>
+    <s chinese = "你知道这花瓶是属于谁的吗？ " tip = " belong to " english = " Do you know whom this vase belongs to?"></s>
+    <s chinese = "她给我们食物和衣服，没有要求任何回报，这一切都让我们很感激。 " tip = "in return; which; be grateful " english = " She gave us food and clothes and asked for nothing in return, which made us very grateful."></s>
+    <s chinese = "他收到了一份礼物，难怪他那么开心。 " tip = " no wonder that …" english = " He had received a gift. No wonder that he was so happy."></s>
+    <s chinese = "虽然他自己并没有觉得做了什么特殊的事情，他的同事们却对他交口称赞 " tip = "think highly of" english = " His colleagues thought highly of him though he himself didn’t think he had done anything special."></s>
+    <s chinese = "在奥运会上所放飞的鸽子象征着和平。" tip = "release; stand for " english = " At the Olympic Games, the doves released at the opening ceremony stand for peace."></s>
+    <s chinese = "那些支持主席的人必须参加一场辩论。" tip = "stand for, take part in" english = " Those people standing for president must take part in a debate."></s>
+    <s chinese = "当午餐的铃声敲响的时候, 学生们一个接一个走出教室。" tip = "one after another" english = " When the bell rang for lunch, the students went out of the classroom one after another."></s>
+    <s chinese = "我们用电脑取代了老式的加法计算器。" tip = "replace" english = " We've replaced the old adding machine with a computer."></s>
+    <s chinese = "经理不在时, 他负责这个商店. " tip = "in charge of" english = " He was left in charge of the shop while the manager was away."></s>
+    <s chinese = "事实上，最大的荣誉是作为最后一名火炬手把火炬带入到举办奥运会的赛场。" tip = "as a matter of fact, honor" english = "  As a matter of fact, the greatest honor is to be the last athlete who carries the torch into the stadium where the Olympic Games will be held."></s>
+    <s chinese = "他最终向警察承认他也加入了犯罪活动。" tip = "admit, take part in, crime" english = " He finally admitted to the police that he had taken part in the crime as well."></s>
+    <s chinese = "作为学校的校长，他每天必须处理许多的问题" tip = "deal with" english = "。As principal of the school, he must deal with many problems every day."></s>
+    <s chinese = "他训练了很长的一段时间，所以获得比赛的胜利是他应得的。" tip = "so, deserve" english = " He’s been training for a long time, so he deserved to win the race."></s>
+    <s chinese = "我不喜欢讲价，幸运的是我不需要做了，因为这双鞋的确非常划算。" tip = "bargain v./ n." english = " I don’t like to bargain and luckily I didn’t have to because these shoes were a real bargain."></s>
+    <s chinese = "在朋友的帮助下，我最终完成了这项工作。" tip = "with the help of" english = " Finally, I was able to finish the work with the help of my friends."></s>
+    <s chinese = "我们需要探索不同的方式来实现我们的人生目标。" tip = "achieve; goal" english = " We need to explore different ways of achieving our life goals."></s>
+    <s chinese = "他下载了很多程序，以致他的电脑无法负荷而崩溃了。" tip = "download, so …that, break down" english = " He had downloaded so many programs onto his computer that it broke down."></s>
+    <s chinese = "由于新一轮抛售的波浪，股市出现了进一步的下跌。" tip = "as a result of, there be, a further fall" english = " As a result of a fresh wave of selling, there was a further fall in the stock market."></s>
+    <s chinese = "政府已经采取措施解决广州的交通问题。" tip = "take measures to do sth., solve" english = " The government has taken measures / steps to solve the traffic problems in Guangzhou."></s>
+    <s chinese = "如果出现的任何困难，请打电话给我。" tip = "arise," english = " If any problems arise, call me."></s>
+    <s chinese = "在现代的社会，几乎所有的东西都电子化了。" tip = "electronic" english = " Almost everything is electronic in modern society."></s>
+    <s chinese = "她将会公开露脸，为她最新的小说签名。" tip = "appearance, sign" english = " She will be making a public appearance, signing copies of her latest novel."></s>
+    <s chinese = "这个母亲正看护着她熟睡的孩子。" tip = "watch over" english = " The mother is watching over her sleeping child now."></s>
+    <s chinese = "事实上每个族群的文化虽有不同和独特的习俗，却有共通的做人宗旨。" tip = "in reality" english = " In reality, all cultures have different and unique practices, but they also share a common goal of doing good."></s>
+    <s chinese = "由于人类的过度猎捕，许多动物都已经灭绝了。" tip = "die out" english = " Because of over-hunting by human beings, many animals have died out."></s>
+    <s chinese = "我们都想过平静安定的生活。" tip = "live in peace" english = " We all want to live in peace."></s>
+    <s chinese = "他不肯学习，面临着期末考试不及格的危机。" tip = "refuse; in danger of ；and 连接的并列句" english = " He refuses to study and is in danger of failing his final exams."></s>
+    <s chinese = "飞机安全着陆之后，一些人喜笑颜开，而另一些人欣慰地哭了。" tip = "burst into laughter; while; cry in relief" english = " After the plane landed safely, some people burst into laughter while other cried in relief."></s>
+    <s chinese = "开车的时候，你应该注意路标。" tip = " pay attention to; road signs" english = " While driving, you should pay attention to the road signs."></s>
+    <s chinese = "这种药物含有一些可能会影响你健康的化学成分。" tip = "contain; chemicals; affect; 使用定语从句" english = " This medicine contains some chemicals that may negatively affect your health."></s>
+    <s chinese = "没人确切知道这一风俗是何时开始形成的。" tip = "custom, come into being " english = " No one knows exactly when this custom first came into being."></s>
+    <s chinese = "如果你想获得成功的话，你必须学会感恩。" tip = "appreciate" english = " You must appreciate others if you want to succeed."></s>
+    <s chinese = "政府提出了一项新的政策，旨在保护城市里一些重要的历史遗迹。" tip = " put forward, aim… at, preserve " english = " The government has put forward a new policy aimed at preserving the city’s important historic sites."></s>
+    <s chinese = "根据气象报告，今天将会是一个晴朗的日子。" tip = " according to" english = " According to the weather report, it will be sunny today."></s>
+    <s chinese = "我梦想将来的某一天能周游全世界。" tip = "dream of" english = " I dream of traveling around the world one day in future."></s>
+    <s chinese = "说实话，我要在公共场合表演还是太紧张了。" tip = "to be honest；too… to; perform" english = " To be honest, I’m too nervous to perform in public."></s>
+    <s chinese = "有时候他们在街头或地铁里为过路人演奏来挣些额外的钱。" tip = "passers-by; so that; earn; extra" english = " Sometimes they may play to passers-by in the street or subway so that they can earn some extra money."></s>
+    <s chinese = "他总是跟他的同班同学开玩笑。　" tip = "play jokes on sb." english = " He always plays jokes on his classmates."></s>
+    <s chinese = "我很独立，不喜欢依赖别人来获得帮助。" tip = "be independent; rely on " english = " I am independent and don’t like to rely on others for help."></s>
+    <s chinese = "在我还没来得及熟悉这个乐队之前，他们就解散了。" tip = " have the chance to; get familiar with; break up；" english = " Before I had the chance to get familiar with the band, they broke up."></s>
+    <s chinese = "除了自信，她还非常漂亮也非常敏感。" tip = "in addition to; confident; attractive; sensitive" english = " In addition to being confident, she is also attractive and sensitive."></s>
+    <s chinese = "然而，在一年左右之后，门基乐队开始演唱他们自己的歌曲了。" tip = "or so" english = " However, after a year or so, the Monkees started to play and sing their own songs."></s>
+    <s chinese = "所有的付款都必须以现金的方式，不允许使用信用卡。" tip = " payments; be made in cash" english = " All payments must be made in cash and no credit cards are allowed."></s>
+    <s chinese = "我将把你的友谊视为是最重要的。" tip = "above all else" english = " I value your friendship above all else."></s>
+    <s chinese = "这间医院是为了纪念孙中山先生而建的。 " tip = "in memory of" english = " The hospital was built in memory of Dr. Sun Yat-sen."></s>
+    <s chinese = "孩子们盼望着万圣节，在那时候他们可以盛装打扮并互相捉弄。" tip = "look forward to; dress up; play a trick on" english = "  The children are looking forward to Halloween when they can dress up and play tricks on each other."></s>
+    <s chinese = "我肯定他在会议上出现，因为他是一个守诺言的人。" tip = "turn up; keep one’s word" english = " I’m sure that he will turn up at the meeting because he is a man who keeps his word."></s>
+    <s chinese = "大家都很清楚他在撒谎。" tip = "obvious" english = " It was obvious to everyone that he was lying."></s>
+    <s chinese = "这出电影让外婆想起了她的童年。" tip = "remind … of …" english = " The movie reminded grandma of her childhood."></s>
+    <s chinese = "那个国家最后终于脱离美国，赢得了独立。" tip = "gain independence from" english = " The country gained independence from the USA at last."></s>
+    <s chinese = "他屏住气，一头扎进河里。" tip = "hold one’s breath" english = " He held his breath and dived into the river."></s>
+    <s chinese = "农民们正在地里收割庄稼时，就在那时他们听到了溺水女孩在呼救。" tip = "gather; drown" english = " The farmers were gathering crops in the field when they heard the drowning girl calling for help."></s>
+    <s chinese = "他为他的粗鲁无礼向我道歉并希望我能原谅他。" tip = "apologize; forgive" english = " He apologized to me for his rudeness and hoped that I would forgive him."></s>
+    <s chinese = "他们一获得许可就马上出发去灾区。" tip = "set off; permission" english = " They set off for the disaster-hit area as soon as they got the permission."></s>
+    <s chinese = "如果你时常请教老师的话，你将会受益匪浅。 " tip = "benefit，consult with" english = " You will benefit greatly if you regularly consult with your teacher."></s>
+    <s chinese = "他认为自己能够逃过学习而考试，但最后他失败了。" tip = " get away with " english = " He thought he could get away with not studying for the exam, but in the end he failed."></s>
+    <s chinese = "除非你保持均衡的饮食，否则将会增加体重。 " tip = "a balanced diet, put on weight " english = " Unless you keep a balanced diet, you will put on weight."></s>
+    <s chinese = "他对家乡的巨变十分惊讶。" tip = "amaze" english = " He was amazed at the great changes that had taken place in his hometown."></s>
+    <s chinese = "在做了一个令人惊叹的演讲之后，他又赢回了同事们的支持。" tip = "win back…" english = " After making a wonderful speech, he was able to win back the support of his colleagues."></s>
+    <s chinese = "他谋求良好生活的能力受到了他缺乏教育的限制。" tip = "earn a good living, be limited by; lack of" english = " His ability to earn a good living is limited by his lack of education."></s>
+    <s chinese = "如果我们联合起来，我们能减少完成这一项目所需要的时间。" tip = "combine one’s efforts; cut down" english = " If we combine our efforts, we can cut down the time needed to complete the project."></s>
+    <s chinese = "在搬进新房子之前， 他扔掉了不需要的东西。" tip = "throw…away" english = " Before moving into the new house, he threw away the things that he didn’t need."></s>
+    <s chinese = "他最大的优点也是他最严重的缺点。" english = "His greatest strength is also his most serious weakness."></s>
+    <s chinese = "Bob昨天没出席会议，肯定发生了一些不寻常的事情。" tip = "must have done" english = " Bob didn’t turn up at the meeting. Something unusual must have happened to him"></s>
+    <s chinese = "这篇新闻报道是完全根据实际情况写的。" tip = "base…on" english = " This news report is based entirely on facts."></s>
+    <s chinese = "父母去世后，他由他的姐姐抚养长大。" tip = "bring up" english = " After his parents died, he was brought up by his elder sister."></s>
+    <s chinese = "咱们应该怎样处理这些废报纸？" tip = "do with" english = " What shall we do with the waste paper?"></s>
+    <s chinese = "如果天气允许的话，我们将在树林里野餐。" tip = "permit" english = " Weather permitting, we will have a picnic in the woods."></s>
+    <s chinese = "至于你的书，我下周一定还给你。" tip = "as for" english = " As for your book, I’ll give it back to you next week."></s>
+    <s chinese = "他偶然发现了他弟弟藏宝的地方。" tip = "by accident, where引导的定语从句" english = " He found the place where his brother had hidden the treasure by accident."></s>
+    <s chinese = "当我到达的时候，我发现门被关上了。" tip = "find+宾语+补语" english = " When I arrived, I found the door closed."></s>
+    <s chinese = "这是鲁迅曾经住过的房子。" english = "This is the room where / in which Lu Xun once lived."></s>
+    <s chinese = "比较：鲁迅曾经住过的就是这房间。" tip = "强调句型" english = "It is in this house that Lu Xun once lived."></s>
+    <s chinese = "没人能对他的旷课作出解释。" tip = "account for" english = " Nobody could account for his absence from school."></s>
+    <s chinese = " 我决定还是求稳不要冒险。" tip = "take a chance；rather than" english = " I decided to play it safe rather than take a chance."></s>
+    <s chinese = "刘翔是否能在明年复出取决他的脚伤是否完全康复。" tip = "depend on" english = " Liu Xiang’s taking part in the competition again next year depends on whether his ankle injury can be cured."></s>
+    <s chinese = "既然你已经通过了驾驶考试，你就可以独自开车了。" tip = "now that" english = " Now that you have passed the driving test, you can drive on your own."></s>
+    <s chinese = "是什么事使他不能参加我们的会议仍然是个谜。" tip = "prevent…from" english = " What prevented him from attending our meeting still remains a mystery."></s>
+    <s chinese = "罗马帝国存在了好几个世纪了。" tip = "exist" english = " The Roman Empire existed for several centuries."></s>
+    <s chinese = "昨天晚会的气氛非常欢快，每一个人都度过了美好的时光。" tip = "atmosphere; joyful" english = " The atmosphere at the party yesterday was very joyful and everyone had a great time."></s>
+    <s chinese = "当我们及时赶到水立方看到菲尔普斯Phelps最终夺得他的第八金时都感到非常地振奋。" tip = "in time; cheer up" english = "  We cheered up when we arrived at the swimming pool in time to see Phelps win his 8th gold medal."></s>
+    <s chinese = "听说她生了一个如此大的男婴，我们都感到非常惊讶。" tip = "give birth to" english = " We were amazed to hear that she had given birth to such a large baby boy."></s>
+    <s chinese = "我经常感到疑惑，为什么有些家长允许自己的孩子看暴力影片。" tip = "wonder; allow" english = " I often wonder why some parents allow their children to watch violent movies."></s>
+    <s chinese = "这个小男孩昨天发现了个金蛋的谣言很快传遍整个小村庄。" tip = "rumour; spread" english = " change it please using rumour and spread The rumor that this little boy found a gold egg spread through the town."></s>
+    <s chinese = "美国最大银行的倒闭引发了连锁的破产现象，导致了许多人失去了自己的家园。" tip = "lead to, a chain action;" english = " The collapse of America’s largest bank set off a chain reaction of bankruptcies and led to many people losing their homes."></s>
+    <s chinese = "从这个角度上说，应该受到责备的是不负责任的父母而不是做错事的小孩。" tip = "rather than…, blame" english = " In this respect, it was the irresponsible parents rather than the children who were at fault that should be blamed."></s>
+    <s chinese = "外面的噪音不断，我无法安下心来学习。" tip = "settle down" english = " With so much noise outside, I couldn’t settle down to study."></s>
+    <s chinese = "虽然左腿受伤了，他还是在同伴的帮助下设法登上了泰山。" tip = "manage to do" english = " He managed to climb Mount Tai with the help of his companions though his left leg was hurt."></s>
+    <s chinese = "这个6岁的小孩有讲故事的天赋。" tip = "have a gift for" english = " This 6-year-old boy has a gift for telling stories."></s>
+    <s chinese = "兴奋的歌迷们等候在机场，希望一睹这个月亮女神的风采。" tip = "catch sight of" english = " Thrilled fans waited at the airport hoping to catch sight of the moon goddess."></s>
+    <s chinese = "北京市民的良好素质与志愿者的热情给参加奥运会的各国运动员留下了深刻的印象。" tip = "impress" english = " The well-behaved Beijing citizens and enthusiastic volunteers greatly impressed the foreign athletes who took part in the Olympic Games."></s>
+    <s chinese = "我们很快就喜欢上了这个青山碧水环绕的千年古镇。 " tip = "surround" english = " We soon fell in love with the thousand-year-old town,  surrounded by green hills and blue water."></s>
+    <s chinese = "他拒绝证实他们下个月将举行婚礼的传闻。 " tip = "confirm" english = " He refused to confirm the rumor that they would hold the wedding ceremony next month."></s>
+    <s chinese = "这幅画是传统与现代的结合。" tip = " a mixture; the traditional; the modern" english = " This painting is a mixture of the traditional and the modern."></s>
+    <s chinese = "站在塔顶上，我仍能看到远处的山 " tip = " in the distance" english = " Standing at the top of the tower, I could still see the mountains in the distance."></s>
+    <s chinese = "翟志刚在太空的巨大成就让他赢得了全中国人民的尊重。" tip = " achievement; respect" english = " Zhai Zhigang’s great achievement in space has earned him the respect of all the Chinese people."></s>
+    <s chinese = "他不需要很多钱，并且很乐于过着简单的生活。" tip = "lead a … life" english = " He doesn’t need much money and is happy to lead a simple life."></s>
+    <s chinese = "四代同堂是中国一个值得骄傲的传统习俗。" tip = "traditional, generation" english = " It is a proud traditional custom in China to have four generations living under one roof."></s>
+    <s chinese = "社会，包括公司和组织，应该在帮助老人方面扮演积极的角色。" tip = "play a/an…role in, organization" english = " The society, including companies and organizations, should play a positive role in helping the old."></s>
+    <s chinese = "老师在讲台前不用看就可以知道哪个学生表现不好。" tip = "without doing, behave" english = " Without looking up from her desk, the teacher knew which student was behaving badly."></s>
+    <s chinese = "如果我们一定要按时完成的话，我们就必须坚持工作。" tip = "carry on" english = " We must carry on working if we are to finish on time."></s>
+    <s chinese = "不要仅仅因为他在一次考试中失败就瞧不起这个人。" tip = "look down upon" english = " Don’t look down upon a person only because he failed an examination."></s>
+    <s chinese = "当我离开超市的时候，我碰巧遇见了我的老朋友。" tip = "come across" english = " I came across my friend by chance when I was leaving the supermarket."></s>
+    <s chinese = "老师的话促使我比以前更努力学习。" tip = "inspire" english = " My teacher’s words inspired me to study harder than ever before."></s>
+    <s chinese = "保护环境是首要考虑的问题。" tip = "consideration" english = " Protecting environment is the primary consideration."></s>
+    <s chinese = "袁博士对生活很满意, 并不在乎出名。" tip = " be satisfied with; care about" english = " Dr Yuan is satisfied with his life and doesn’t care about being famous."></s>
+    <s chinese = "我们的校长很希望能扩大学校的规模。" tip = "expand" english = " Our principal wishes to expand the size of our school."></s>
+    <s chinese = "多亏了每一个人的辛勤努力，表演取得了巨大的成功。" tip = "thanks to" english = " Thanks to everyone’s hard work, the performance was a great success."></s>
+    <s chinese = "吉姆悄悄溜进房间，没有打扰父母。" tip = "without disturbing" english = " Jim slipped into the room without disturbing his parents."></s>
+    <s chinese = "我宁愿为理想奋斗，不愿意放弃而他日后悔。" tip = "would rather…than; struggle for" english = " I would rather struggle for my dream than give it up and regret it later in my life."></s>
+    <s chinese = "在阅览室朗读是一种坏习惯。" tip = "-ing作主语" english = " Reading aloud in the reading room is a bad habit."></s>
+    <s chinese = "美国总统来华访问，希望改善两国之间的关系。" tip = "with the hope of…" english = " The president of the USA paid a visit to China with the hope of improving the relationship between the two countries."></s>
+    <s chinese = "正是那个司机的粗心导致了这场车祸。" tip = " lead to, 用强调句" english = " It was the driver’s carelessness that led to the car accident."></s>
+    <s chinese = "科学家们把精力集中在保持大气清洁和免受污染上。" tip = "focus on, keep…free from…" english = " The scientists focused on keeping the atmosphere clean and free from pollution."></s>
+    <s chinese = "在经历了多年的奋斗之后，他们建立起了自己的公司并变得富有。" english = " After many years of struggle, they were able to build up their business and become rich."></s>
+    <s chinese = "到目前为止，我对居住在广州感到非常满意。" tip = "up to now; be content with" english = " Up to now, I have been content with living in Beijing."></s>
+    <s chinese = "过去他们很贫困，根本谈不上度假。" tip = " too…to…, badly off " english = " In the past, they were too badly off to afford a holiday."></s>
+    <s chinese = "在老师的帮助下，我终于克服了困难。" tip = "overcome" english = " I was able to overcome the problem with the help of my teacher."></s>
+    <s chinese = "汶川地震发生后，地震灾区的交通、电力和通讯完全中断了。" tip = "cut off" english = " After the Wenchuan earthquake, transportation, electricity, and communication in the earthquake-stricken         area were completely cut off."></s>
+    <s chinese = "他是一个很有趣的男孩，经常用他的笑话带给我们许多欢乐。" tip = "entertain sb. with sth." english = " He is a very funny boy and often entertains us with his jokes."></s>
+    <s chinese = "他去找加油站看是否能买到汽油。" tip = " in search of " english = " He went off in search of a gas station where he could buy some petrol."></s>
+    <s chinese = "我对一切记忆犹新，好像是昨天发生的。" tip = " as if…" english = " I remember everything as if it happened yesterday."></s>
+    <s chinese = "据报道，10,000吨含有三聚氰胺的三鹿婴幼儿奶粉已被销毁。" tip = "-ing作定语" english = " It is reported that 10,000 tons of Sanlu baby milk powder containing melamine have been destroyed."></s>
+    <s chinese = "北京奥运会上，看到国旗升起，听到国歌奏响时，每个中国人都感到无比自豪。" english = "It made every Chinese feel proud seeing the national flag being raised and hearing the national anthem being played during the Beijing Olympic Games."></s>
+    <s chinese = "许多北京残奥会的故事非常感人，很多人都感动得流泪。" tip = "-ing作表语，过去分词做表语" english = " Stories from the Beijing Paralympics were so moving that many people were moved to tears."></s>
+    <s chinese = "一般而言，你在学习一门新的语言的时候总避免不了要犯错误。" tip = "in general, avoid" english = " In general, you cannot avoid making mistakes when you learn a new language."></s>
+    <s chinese = "不是所有的人都痴迷足球，也不是很多人都对篮球感兴趣。" tip = "not all… nor, be crazy about" english = " Not all people are crazy about football, nor are many interested in basketball."></s>
+    <s chinese = "在政府和人民的帮助下，汶川地区最终定能重建家园。" tip = "It is likely that …；recover" english = " With the help of the people and the government, it is likely that Wenchuan will eventually recover."></s>
+    <s chinese = "他向玛丽求助时，她却转过身去，所以他感到很没面子。" tip = "turn one’s back to, lose face" english = " When he asked Mary for help, she just turned her back to him. Therefore he felt he lost face."></s>
+    <s chinese = "去年暑假我去了乡村度假。与村民们在一起我感到非常地自在，也非常满意那里的生活。" english = "I spent my holiday in the countryside last summer. I felt at ease with the village people and was content with my life there."></s>
+    <s chinese = "历史上，中国人民总是英勇保卫家乡，抵抗外国侵略者。" tip = "defend… against" english = " In history, the Chinese people always defended their villages, towns and cities against the foreign invaders."></s>
+    <s chinese = "很兴奋昨晚在音乐会的现场看到了谢庭锋的真人。" tip = "-ing作表语" english = " It was exciting to see Xie Ting Feng live in the concert last night."></s>
+    <s chinese = "当我走近他的时候，这个陌生人一脸疑惑地看着我。" tip = "curiously" english = " The stranger looked at me curiously as I came towards him."></s>
+    <s chinese = "树叶变黄，意味着秋天来临。" tip = "approach" english = " When the tree leaves turn yellow, we know that autumn is approaching."></s>
+    <s chinese = "她们又说又笑地走进了教室。" tip = "-ing做状语" english = " Talking and laughing, they came into the classroom."></s>
+    <s chinese = "我喜欢在森林里漫步和亲近自然的感觉。" tip = "get close to" english = " I love the feeling of walking in the forest and getting close to nature."></s>
+    <s chinese = "法国以其精美的食品和葡葡萄酒驰名。" tip = "be famous for" english = " France is famous for its fine food and wine."></s>
+    <s chinese = "你应该提前定火车票，这样你就可以节省一些钱。" tip = " in advance；so" english = " You should book the train ticket in advance, so you can save some money."></s>
+    <s chinese = "学校为学生提供了许多现代化的教学设施。" tip = "provide sth. for sb.; teaching facilities" english = " The school provides a lot of modern teaching facilities for its students."></s>
+    <s chinese = "维护我们的环境其实要比修复它更加的经济也更加容易。" tip = "preserve" english = " It is much cheaper and easier to preserve our environment than to try and repair it."></s>
+    <s chinese = "不论发生什么事情，我将永远都不会放弃。 " tip = "No matter…" english = " No matter what may happen, I will never give up."></s>
+    <s chinese = "他因为迟到向老师道歉，老师一句话没说就接受了他的道歉。" tip = "make an apology to sb for…; without doing …" english = " He made an apology to the teacher for being late and the teacher accepted it without saying a word."></s>
+    <s chinese = "莎士比亚不仅是个有名的剧作家也是个非常优秀的演员。" tip = "Not only句首…but also…" english = " Not only was Shakespeare a famous playwright, but he was also an excellent actor."></s>
+    <s chinese = "难怪这个主题公园这么受到大家的欢迎，它模拟的是古代中国的生活场景。" tip = "it is no wonder that …; be modeled after; " english = " This theme park is modeled after the living scenes in ancient China，so it is no wonder that it is popular with everybody."></s>
+    <s chinese = "通过战胜众多挑战，他应该能重新活跃并且懂得开始享受生活。" tip = "a variety of ; come to life; enjoy oneself" english = "  By overcoming a variety of challenges, he was to come to life again and begin enjoying himself."></s>
+    <s chinese = "看起来一些自然灾害应归咎于全球变暖。" tip = "seem; be to blame for " english = " It seems that global warming could be to blame for the natural disasters．"></s>
+    <s chinese = "中国著名运动员刘翔的伤痛的确严重，以至他可能会出国治疗。" tip = "…so severe that…" english = " The injury to China's famous athlete Liu Xiang is so severe that he may go abroad for medical treatment."></s>
+    <s chinese = "专家提出的计划得到了政府的认可。" tip = "put forward;" english = " The project put forward by experts has been accepted by the government."></s>
+    <s chinese = "只有集中精力在学习上，你才能获得进步。" tip = "only if…; be absorbed in" english = " Only if you are absorbed in your study can you make progress."></s>
+    <s chinese = "每次试着去办公室找他，我总是被告知他在开会。" tip = "every time" english = " Every time I try to visit him in his office, I’m told he is having a meeting。"></s>
+    <s chinese = "他一脸焦虑地宣布经济危机将会造成许多失业。" tip = "with…; announce with; lead to" english = " With a worried look on his face, he announced that the economic crisis would lead to the loss of many jobs."></s>
+    <s chinese = "他每天晚上帮助同学复习了一个月，防止了他不能通过考试。" tip = "prevent…from…" english = " He was able to prevent his classmate from failing the exam by helping him to study every night for one month."></s>
+    <s chinese = "别在太阳下晒得太久，否则你会被晒伤。" tip = "expose… to" english = " Don’t expose yourself to the sun for too long or you will get sunburned."></s>
+    <s chinese = "除了作为一种有趣而且有益的运动外，游泳还是一项很有用的技能。" tip = "apart from;" english = " Apart from being fun and good exercise, swimming is also a very useful skill."></s>
+    <s chinese = "他知道在收集、分析这些事实之前，他们不可能得出一个的结论。 " tip = "not…until…;draw a conclusion" english = " He knew they would not draw a conclusion until the all facts had been gathered and analyzed."></s>
+    <s chinese = "我的早餐包括巧克力饼干和牛奶。" tip = "consist of" english = " My breakfast consists of chocolate-covered biscuits and milk."></s>
+    <s chinese = "北京奥运会盛大的开幕式吸引了全球亿万观众的注意力。" tip = "attract" english = " The magnificent opening ceremony of the Beijing Olympic Games attracted the attention of millions of people all over the world."></s>
+    <s chinese = "值得称赞的是，史密斯先生不乐意卷入。" tip = "to one’s credit" english = " To his credit, Mr. Smith was unwilling to get involved."></s>
+    <s chinese = "为了图方便, 我把参考书放在书桌前。" tip = "for convenience" english = " I keep my reference books near my desk for convenience."></s>
+    <s chinese = "他安排了会议，但最后非常失望的是会议几乎没有任何收获。" tip = "arrange; achieve" english = " He had arranged the meeting and was very disappointed when, in the end, it achieved almost nothing."></s>
+    <s chinese = "他以证明别人有错为乐。" tip = "take great delight" english = " He takes great delight in proving others wrong."></s>
+    <s chinese = "在工作的重压下他的身体垮掉了。" tip = "break down; under…" english = " His health broke down under the pressure of work."></s>
+    <s chinese = "南奥塞梯 在八月二十六日脱离格鲁吉亚 并宣布独立的消息，使我们很震惊。" tip = "break away; declare" english = "  We were shocked at the news that South Ossetia broke away from Georgia and declared independence on August 26."></s>
+    <s chinese = "她在试卷上漏写了名字。" english = "She left out her name on the test paper."></s>
+    <s chinese = "我希望我刚才所讲的能澄清情况。" tip = "I hope what…; clarify" english = " I hope what I just told you can clarify the situation."></s>
+    <s chinese = "我正在考虑将国际象棋作为我的新爱好，因为它可以训练一个人的思维。" tip = "take up" english = " I am thinking of taking up chess as my new hobby as it helps to train your mind."></s>
+    <s chinese = "她出生于北京的一个工人家庭，5岁就开始打乒乓球。" tip = "过去分词作状语" english = " Born into a worker’s family in Beijing, she began to play table tennis at the age of five."></s>
+    <s chinese = "在一天辛苦工作之后，Mrs. Jones 感到筋疲力尽，她上楼时好像一名迟暮的老人。" tip = "so … that …; as if" english = " After a day’s hard work, Mrs. Jones was so exhausted that she climbed the stairs as if she were an old woman."></s>
+    <s chinese = "在股票市场亏损了所有的资产之后，他过了好多年才在资金方面恢复过来。" tip = "before…;be back on one’s feet" english = "   After losing all his money in the stock market, it was many years before the man could get back on his feet financially."></s>
+    <s chinese = "世上的一切事情都在不断地发生着变化。" english = "Everything in the world is constantly changing."></s>
+    <s chinese = "我们应该乐观向上，永远对生活保持一种积极的态度。" tip = "be optimistic" english = " We should be optimistic and always keep a positive attitude towards life."></s>
+    <s chinese = "你不应该将这次比赛的失利归咎于他；那不是他的错。" tip = "blame… for…" english = " You shouldn’t blame him for the failure of the competition. It isn’t his fault."></s>
+    <s chinese = "多亏专家及时赶到，他们的难题随即便就得到了解决。" tip = "in no time" english = " Thanks to the quick arrival of the expert, their problem was solved in no time."></s>
+    <s chinese = "我们不能忽视这样一个事实：那就是报纸需对所服务的社区负责。" tip = "lose sight of the fact that…" english = " We must not lose sight of the fact that each newspaper needs to be responsible for the community that it serves."></s>
+    <s chinese = "在未来，我们希望我们能够建立一个环保地回收垃圾的系统。" tip = "where引导的定语从句" english = " In the future, we hope we can develop a system where waste can be recycled in an environmentally friendly way."></s>
+    <s chinese = "只有当你经历了很多磨难后, 你才知道幸福的可贵。" tip = "only if" english = " Only if you experience much hardship can you value happiness."></s>
+    <s chinese = "如果你专注于英语学习，你会有效地掌握这门语言。" tip = "concentrate ... on" english = " If you concentrate your energies on the study of English, you’ll acquire the language effectively."></s>
+    <s chinese = "在得知自己上呈给教育部门的信被发表在报纸上这一消息时，这个家庭主妇很高兴。" tip = "be delighted at" english = " The housewife was delighted at the news that the letter she submitted to the education department was published in the newspaper."></s>
+    <s chinese = "我们的成败取决于每个人是否努力工作。" tip = "depend on" english = " Our success depends on whether everyone works hard or not."></s>
+    <s chinese = "我不仅对摄影感兴趣，而且在大学里我还专修过摄影课来提高我的技术。" tip = "not only…but…" english = " Not only am I interested in photography, but I took a course at university to improve my skills."></s>
+    <s chinese = "老实说，为了如期完成这项任务，我两天两夜都没睡觉。" tip = "so as to，before the deadline" english = " To tell you the truth, I stayed up for 2 days and nights so as to finish the task before the deadline."></s>
+    <s chinese = "他被指控杀人, 确认后被宣判死罪。" tip = "be accused of，convince" english = " He was accused of murder, convinced and sentenced to death."></s>
+    <s chinese = "这个记者被派去报道一个受贿官员的有关新闻。" tip = "cover" english = " The journalist was sent to cover the news about an official who took bribes."></s>
+    <s chinese = "使她的父母感到开心的是，她在班上总是遥遥领先。" tip = "ahead of" english = " She is always well ahead of the rest of the class, which makes her parents very happy."></s>
+    <s chinese = "我同意你去挣一些钱，可是请不要涉及犯罪。" tip = "approve of ,be involved in" english = " I approve of your trying to earn some money, but please don't get involved in crime."></s>
+    <s chinese = "在某人受伤时，懂得急救知识能发挥重要的作用。" tip = "It is…that; a knowledge of; make a difference" english = " It is a knowledge of first aid that can make a real difference when someone is hurt."></s>
+    <s chinese = "虽然这里有许多书， 但我找不到我想要的那本。" tip = "put one’s hands on; a number of" english = " Although there are a large number of books here, I can’t put my hands on the one I wanted."></s>
+    <s chinese = "晚会上的一切都已经摆放好了，我们终于可以放松休息一下了。" tip = "in place" english = " Everything is in place for the party, so we can finally relax and have a rest."></s>
+    <s chinese = "毫无疑问, 在反复练习后,他会做得更好。" tip = "There is no doubt that…; over and over again" english = " There is no doubt that he will do a better job after practicing it over and over again."></s>
+    <s chinese = "为了阻止火灾蔓延, 你应当中断电源。 " tip = "cut off; prevent from" english = " You should cut off the electricity supply to prevent the fire from spreading."></s>
+    <s chinese = "好好休息一两天, 有必要的时候就吃这个药。 " tip = "a day or two; when necessary省略句式" english = " Have a good rest for a day or two and take this pill when necessary."></s>
+    <s chinese = "学校饭堂为我们提供各种各样的菜式。 " tip = "a variety of" english = " The school canteen provides a variety of food for us."></s>
+    <s chinese = "除非你用一块不会粘着皮肤的干净绷带, 否则你的伤口会受感染。" tip = "get +p.p. ; unless; stick to" english = " Your wound may get infected unless you use a clean bandage that will not stick to the skin."></s>
+    <s chinese = "他很感激我为他做的一切并把我当最好的朋友对待。" tip = "be grateful to; treat" english = " He was very grateful to me for what I had done for him and treated me as his best friend."></s>
+    <s chinese = "校长为他颁发了优秀学生奖。" english = " The headmaster presented him with the award as an excellent student."></s>
+<!--    <t name = A Million Ways To Die In The West>-->
+<!--        <s chinese = "好朋友就是能和你分享快乐和忧伤的人。" tip = "share…with" english = "A best friend is someone who can share happiness and sorrow with you. "></s>-->
+<!--        <s chinese = "我很感激你的建议，它帮助了我与同学们融洽相处。" tip = "be grateful, advice, get along with" english = "I’m grateful for your advice, which has helped me get along well with my classmates."></s>-->
+<!--        <s chinese = "这是他第一次用电子邮件与笔友交流。" tip = "the first time, communicate with" english = "This is the first time that he has used an e-mail to communicate with his pen friend."></s>-->
+<!--    </t>-->
+
+
+
+</sentence>
+
